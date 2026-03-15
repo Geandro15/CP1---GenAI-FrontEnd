@@ -1,3 +1,9 @@
+# Geandro Dezordi    RM 562316
+# Alexandre Ferreira RM 565626
+# Lucas Veronezi     RM 564202
+# Roberto Eduardo    RM 564537
+# Guilherme Almeida  RM 563972
+
 # treinar_modelo.py
 import os
 import json
