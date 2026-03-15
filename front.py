@@ -1,6 +1,8 @@
 # Geandro Dezordi    RM 562316
 # Alexandre Ferreira RM 565626
 # Lucas Veronezi     RM 564202
+# Roberto Eduardo    RM 564537
+# Guilherme Almeida  RM 563972
 
 import streamlit as st
 import numpy as np
